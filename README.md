@@ -1,6 +1,6 @@
 # Snake Game
 
-We all have played a very famous game in our childhood on our touch button mobile phones known as snake game. In the game, there is a square box which acts like a snake in the game. There is another square box which is referred to as the food of the snake. The snake can change it's directions using the arrow keys in our keypad. Whenever, the snake eats the food, i.e., the two squares meet collide, another square is added the tail of the snake and the length of the snake increases. Further, to increase the difficulty of the game, the speed of the snake also increases gradually with time. This is the overall working of the game that I've implemented. 
+We all have played a very famous game in our childhood on our feature phones known as snake game. In the game, there is a square box which acts like a snake in the game. There is another square box which is referred to as the food of the snake. The snake can change it's directions using the arrow keys in our keypad. Whenever, the snake eats the food, i.e., the two squares meet collide, another square is added the tail of the snake and the length of the snake increases. Further, to increase the difficulty of the game, the speed of the snake also increases gradually with time. This is the overall working of the game that I've implemented. 
 
 ## Installation
 
